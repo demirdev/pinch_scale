@@ -2,7 +2,7 @@ Pinch to scale any double value for text / image size or what you want, you can 
 
 [Get on pub.dev](https://pub.dev/packages/pinch_scale)
 
-<img src="https://raw.githubusercontent.com/demirdev/pinch_scale/master/example/doc/assets/demo.gif" alt="Example Project" />
+<img width="200" src="https://raw.githubusercontent.com/demirdev/pinch_scale/master/example/doc/assets/demo.gif" alt="Example Project" />
 
 ## Usage for text size changer
 ```dart

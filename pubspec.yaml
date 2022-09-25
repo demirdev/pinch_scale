@@ -1,6 +1,6 @@
 name: pinch_scale
 description: Pinch to scale any double value for text / image size or what you want
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/demirdev/pinch_scale
 
 environment:

@@ -1,10 +1,29 @@
-Pinch to scale any double value for text / image size or what you want, you can save new value to local storage.
+# Pinch Scale
+A simple widget for Pinch to Scale any double value for text / image size or what you want, you can save new value to local storage.
 
-[Get on pub.dev](https://pub.dev/packages/pinch_scale)
+[![Pub](https://img.shields.io/pub/v/pinch_scale.svg)](https://pub.dev/packages/pinch_scale)
 
 <img width="200" src="https://raw.githubusercontent.com/demirdev/pinch_scale/master/example/doc/assets/demo.gif" alt="Example Project" />
 
-## Usage for text size changer
+## Getting Started
+
+In the `pubspec.yaml` of your flutter project, add the following dependency:
+
+```yaml
+dependencies:
+  ...
+  pinch_scale:
+```
+
+Import it:
+
+```dart
+import 'package:pinch_scale/pinch_scale.dart';
+```
+
+## Usage Examples
+
+### Text size changer
 ```dart
 class TextSizeChanger extends StatelessWidget {
   TextSizeChanger({Key? key}) : super(key: key);
@@ -37,7 +56,8 @@ While the majority of Jewish and subsequent Christian and Muslim commentators co
   }
 }
 ```
-## Usage for image height changer
+
+### Image height changer
 ```dart
 class ImageSizeChanger extends StatelessWidget {
   ImageSizeChanger({Key? key}) : super(key: key);

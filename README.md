@@ -70,4 +70,6 @@ class ImageSizeChanger extends StatelessWidget {
 }
 ```
 
-## Additional information
+## Code Contributors
+
+[![](https://contrib.rocks/image?repo=demirdev/pinch_scale)](https://github.com/demirdev/pinch_scale/graphs/contributors)
